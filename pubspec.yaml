@@ -1,0 +1,58 @@
+name: voicerecognition
+description: A Flutter app for emergency voice recognition and activation
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI
+  cupertino_icons: ^1.0.6
+  
+  # State Management
+  provider: ^6.1.1
+  
+  # Navigation
+  go_router: ^13.0.0
+  
+  # Speech Recognition
+  speech_to_text: ^7.0.0
+  
+  # Location
+  geolocator: ^11.0.0
+  permission_handler: ^11.3.0
+  
+  # Audio Recording
+  record: ^5.1.2
+  path_provider: ^2.1.2
+  
+  # Storage
+  shared_preferences: ^2.2.2
+  
+  # JSON Serialization
+  json_annotation: ^4.8.1
+  
+  # Phone & SMS
+  url_launcher: ^6.2.4
+  
+  # Background Tasks
+  flutter_background_service: ^5.0.5
+  flutter_local_notifications: ^17.0.0
+  
+  # Connectivity
+  connectivity_plus: ^5.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  build_runner: ^2.4.8
+  json_serializable: ^6.7.1
+
+flutter:
+  uses-material-design: true
+
