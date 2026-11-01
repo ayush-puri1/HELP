@@ -186,5 +186,5 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
 <p align="center">
-  Made with ❤️ for personal safety & emergency responsiveness.
+  Made by Sawan for personal safety & emergency responsiveness.
 </p>
